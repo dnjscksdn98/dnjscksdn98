@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjscksdn98)](https://github.com/dnjscksdn98)
-
-</div>
-
 ### 🎯 Backend Developer
 - Dreaming to become a backend developer in South Korea.
 
@@ -25,9 +17,6 @@
 
 
 ### 📩 Learn more about me
-<div align=center>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dnjscksdn98)](https://velog.io/@dnjscksdn98)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjscksdn98@gmail.com)](mailto:dnjscksdn98@gmail.com)
-
-</div>
