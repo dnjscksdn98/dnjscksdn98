@@ -1,4 +1,4 @@
-### 🎯 Backend Developer
+### Hi There 👋
 - Dreaming to become a backend developer in South Korea.
 
 ### ✨ Interests
