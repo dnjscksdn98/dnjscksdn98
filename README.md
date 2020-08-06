@@ -1,5 +1,5 @@
-### Hi There 👋
-- Dreaming to become a backend developer in South Korea.
+### 🚀 Who am I
+- A student reaming to become a backend developer in South Korea.
 
 ### ✨ Interests
 - Data structure and Algorithms
