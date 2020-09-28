@@ -9,5 +9,6 @@
 
 ### 📩 Learn more about me
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dnjscksdn98)](https://velog.io/@dnjscksdn98)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjscksdn98@gmail.com)](mailto:dnjscksdn98@gmail.com)
+  [![](https://img.shields.io/badge/Velog-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://velog.io/@dnjscksdn98)
+  [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dnjscksdn98)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnjscksdn98@gmail.com)
