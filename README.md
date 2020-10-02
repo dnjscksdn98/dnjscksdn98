@@ -3,8 +3,9 @@
 
 ### ✨ Interests
 - Data structure and Algorithms
-- Server side developing using Spring-Boot.
-- Microservice Architecture using Spring-Cloud.
+- Server side developing
+- Microservice Architecture
+- Distributed Streaming Systems such as Apache Kafka.
 - DevOps and Cloud Services such as Docker, Kubernetes, AWS, etc.
 
 ### 📩 Learn more about me
