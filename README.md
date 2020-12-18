@@ -3,9 +3,10 @@
 
 ### ✨ Interests
 - Data structure and Algorithms
+- Blockchain & Cryptocurrency
 - Server side developing
 - Microservice Architecture
-- Distributed Streaming Systems such as Apache Kafka.
+- Distributed Streaming Systems such as Apache Kafka or RabbitMQ.
 - DevOps and Cloud Services such as Docker, Kubernetes, AWS, etc.
 
 ### 📩 Learn more about me
