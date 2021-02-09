@@ -2,12 +2,11 @@
 - A backend developer in South Korea.
 
 ### ✨ Interests
-- Data structure and Algorithms
 - Blockchain & Cryptocurrency
-- Server side developing
-- Microservice Architecture
-- Distributed Streaming Systems such as Apache Kafka or RabbitMQ.
-- DevOps and Cloud Services such as Docker, Kubernetes, AWS, etc.
+- Backend Developing
+- Microservices
+- DevOps and Cloud Services
+- Open Sources
 
 ### 📩 Learn more about me
   
